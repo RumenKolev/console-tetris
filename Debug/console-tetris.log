@@ -1,2 +1,4 @@
 ﻿  console-tetris.cpp
+D:\Projects\C++\Console-Tetris\console-tetris\console-tetris.cpp(70,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Projects\C++\Console-Tetris\console-tetris\console-tetris.cpp(240,22): warning C4018: '<': signed/unsigned mismatch
   console-tetris.vcxproj -> D:\Projects\C++\Console-Tetris\console-tetris\Debug\console-tetris.exe
